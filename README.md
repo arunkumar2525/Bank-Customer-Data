@@ -1,4 +1,4 @@
-# Bank-Customer-Data
+# Bank_Customer_Project
 1. Bank Customer Dataset is a classification problem whether Customer leave the bank or not.
 2. I have extracted best classification algorithm for our dataset.
 3. I got Knn and random forest are the 2 best algorihtms for our dataset.
